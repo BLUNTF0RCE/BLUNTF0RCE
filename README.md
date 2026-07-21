@@ -1,6 +1,8 @@
 <div align="left">
  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Griffy&pause=1000&color=F71D43&width=435&lines=I+better+find+you+first+.+.+." alt="Typing SVG" /></a>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=BLUNTF0RCE.BLUNTF0RCE&left_color=black&right_color=black&left_text=BLOODBATH:"  />
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Griffy&pause=1000&color=F71D43&width=435&lines=I+better+find+you+first+.+.+." alt="Typing SVG" /></a>
 <br clear="both">
 
 <img align=left height="350" alt="Fucker" src="https://github.com/user-attachments/assets/965934f6-646a-4200-a06d-ba9fc483d00b" />
