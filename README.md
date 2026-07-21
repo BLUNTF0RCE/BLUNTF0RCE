@@ -2,7 +2,7 @@
  
  <img src="https://visitor-badge.laobi.icu/badge?page_id=BLUNTF0RCE.BLUNTF0RCE&left_color=black&right_color=black&left_text=BLOODBATH:"  />
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Griffy&pause=1000&color=F71D43&width=435&lines=I+better+find+you+first+.+.+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Griffy&size=28&pause=1000&color=F71D43&width=435&lines=I+better+find+you+first+.+.+.;.+.+.+Before+you+find+the+phone." alt="Typing SVG" /></a>
 <br clear="both">
 
 <img align=left height="350" alt="Fucker" src="https://github.com/user-attachments/assets/965934f6-646a-4200-a06d-ba9fc483d00b" />
@@ -21,7 +21,7 @@
 <br clear="both">
 
 <p align="Left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Griffy&duration=7000&pause=160&color=F71D43&width=435&lines=.+.+.+Before+you+find+the+phone." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Griffy&size=35&duration=5&pause=1000&color=F71D43&width=435&lines=%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1;%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0" alt="Typing SVG" /></a>
 <br clear="both">  
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qzrntuiwzqmtwuxzt2z2cjaihi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=fb182f&bar_color_cover=false">
